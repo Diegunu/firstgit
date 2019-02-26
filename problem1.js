@@ -1,1 +1,2 @@
-let variable = 10
+alert('hello again')
+alert('hello brrrr')
